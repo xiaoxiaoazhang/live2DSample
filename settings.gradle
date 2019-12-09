@@ -1,0 +1,6 @@
+include ':app', ':live2dlib'
+rootProject.name='Live2DSample'
+include ':live2DSimple'
+include ':live2DWallpaper'
+include ':benchmark'
+include ':live2DSample_Android'
